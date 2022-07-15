@@ -20,7 +20,7 @@
     <artifactId>jeb</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>jeb</name>
-    <description>简E办AO系统</description>
+    <description>简E办AO_Easy系统</description>
     <packaging>pom</packaging>
     <properties>
         <java.version>1.8</java.version>
