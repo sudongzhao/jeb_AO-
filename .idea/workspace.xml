@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2937a67f-fd90-492f-a693-c16144e66d45" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="office_back" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="XML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="C:\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2BR1T1ytlAlVVVRqUoOzLsHjjXG" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="compactDirectories" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jeb-mail/src/main/resources/templates" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sudongzhao.mail" />
+      <recent name="com.sudongzhao.server.converter" />
+      <recent name="com.sudongzhao.generator" />
+      <recent name="com.sudongzhao.server" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\VUE\vue_project\office\office_back\jeb-mail\src\main\resources\templates" />
+      <recent name="G:\VUE\vue_project\office\office_back\jeb-server\src\main\resources\mapper" />
+      <recent name="G:\VUE\vue_project\office\office_back\jeb-server\src\main\java\com\sudongzhao\server\config" />
+      <recent name="G:\VUE\vue_project\office\office_back\jeb-server\src\main\java\com\sudongzhao\server\service" />
+      <recent name="G:\VUE\vue_project\office\office_back\jeb-server\src\main\java\com\sudongzhao\server\service\impl" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MailApplication">
+    <configuration name="CodeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sudongzhao.generator.CodeGenerator" />
+      <module name="generator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sudongzhao.generator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JebApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="jeb-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sudongzhao.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sudongzhao.server.JebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="office_back" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sudongzhao.jeb.JebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MailApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="jeb-mail" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sudongzhao.mail.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sudongzhao.mail.MailApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MailApplication" />
+        <item itemvalue="Spring Boot.JebApplication (1)" />
+        <item itemvalue="Application.CodeGenerator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="com.intellij.database.console.DatabaseServiceViewContributor@304ec878" type="d2cb1801:ServiceModel$ContributorNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="com.intellij.database.console.DatabaseServiceViewContributor@304ec878" type="d2cb1801:ServiceModel$ContributorNode" />
+                <item name="root:jeb@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="com.intellij.database.console.DatabaseServiceViewContributor@304ec878" type="d2cb1801:ServiceModel$ContributorNode" />
+                <item name="root:jeb@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@5d43cd12" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+          <option name="groupByContributor" value="true" />
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\ASUS\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2937a67f-fd90-492f-a693-c16144e66d45" name="Default Changelist" comment="" />
+      <created>1656854087588</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656854087588</updated>
+      <workItem from="1656854091166" duration="4826000" />
+      <workItem from="1656890359111" duration="17831000" />
+      <workItem from="1656917734476" duration="5181000" />
+      <workItem from="1656923346136" duration="31000" />
+      <workItem from="1656924107393" duration="49147000" />
+      <workItem from="1657200424816" duration="185000" />
+      <workItem from="1657201819064" duration="349000" />
+      <workItem from="1657202250623" duration="757000" />
+      <workItem from="1657203061887" duration="117000" />
+      <workItem from="1657203230493" duration="50000" />
+      <workItem from="1657203328183" duration="1724000" />
+      <workItem from="1657205218201" duration="65000" />
+      <workItem from="1657205744960" duration="26143000" />
+      <workItem from="1657508738489" duration="1653000" />
+      <workItem from="1657510496284" duration="769000" />
+      <workItem from="1657511612412" duration="14675000" />
+      <workItem from="1657620088365" duration="13624000" />
+      <workItem from="1657784841410" duration="621000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1656890410327">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1656890410327" />
+    <state x="2472" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1657203989547">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1657203989547" />
+    <state x="2638" y="154" key="#com.intellij.ide.util.MemberChooser" timestamp="1657435194011">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2638" y="154" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1657435194011" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1656939993873" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1656942697697">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1656942697697" />
+    <state x="2606" y="211" key="FileChooserDialogImpl" timestamp="1657203276051">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2606" y="211" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1657203276051" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1656921045480" />
+    <state x="577" y="308" key="Github.CreateGistDialog" timestamp="1656945774637">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="577" y="308" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1656945774637" />
+    <state width="1877" height="268" key="GridCell.Tab.0.bottom" timestamp="1657636731980">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="268" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1657636731980" />
+    <state width="1493" height="233" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1656947802330" />
+    <state width="1877" height="268" key="GridCell.Tab.0.center" timestamp="1657636731980">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="268" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1657636731980" />
+    <state width="1493" height="233" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1656947802330" />
+    <state width="1877" height="268" key="GridCell.Tab.0.left" timestamp="1657636731980">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="268" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1657636731980" />
+    <state width="1493" height="233" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1656947802330" />
+    <state width="1877" height="268" key="GridCell.Tab.0.right" timestamp="1657636731980">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="268" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1657636731980" />
+    <state width="1493" height="233" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1656947802330" />
+    <state width="1877" height="268" key="GridCell.Tab.1.bottom" timestamp="1657636731981">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="268" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1657636731981" />
+    <state width="1493" height="233" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1656947802331" />
+    <state width="1877" height="268" key="GridCell.Tab.1.center" timestamp="1657636731981">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="268" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1657636731981" />
+    <state width="1493" height="233" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1656947802331" />
+    <state width="1877" height="268" key="GridCell.Tab.1.left" timestamp="1657636731980">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="268" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1657636731980" />
+    <state width="1493" height="233" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1656947802331" />
+    <state width="1877" height="268" key="GridCell.Tab.1.right" timestamp="1657636731981">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="268" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1657636731981" />
+    <state width="1493" height="233" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1656947802331" />
+    <state width="1877" height="281" key="GridCell.Tab.2.bottom" timestamp="1657636014661">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.2.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1657636014661" />
+    <state width="1493" height="368" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1656946724191" />
+    <state width="1877" height="281" key="GridCell.Tab.2.center" timestamp="1657636014661">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.2.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1657636014661" />
+    <state width="1493" height="368" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1656946724190" />
+    <state width="1877" height="281" key="GridCell.Tab.2.left" timestamp="1657636014661">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.2.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1657636014661" />
+    <state width="1493" height="368" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1656946724190" />
+    <state width="1877" height="281" key="GridCell.Tab.2.right" timestamp="1657636014661">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.2.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1657636014661" />
+    <state width="1493" height="368" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1656946724191" />
+    <state x="2294" y="85" key="Maven.ArtifactSearchDialog" timestamp="1657432601059">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2294" y="85" key="Maven.ArtifactSearchDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1657432601059" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1656920887835" />
+    <state x="2015" y="46" key="SettingsEditor" timestamp="1657529517826">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2015" y="46" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1657529517826" />
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1656890480757" />
+    <state x="2012" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1657510187785">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2012" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1657510187785" />
+    <state x="2199" y="277" width="540" height="501" key="extract.method.dialog" timestamp="1657116373300">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2199" y="277" width="540" height="501" key="extract.method.dialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1657116373300" />
+    <state x="2007" y="223" width="786" height="600" key="find.popup" timestamp="1657433813889">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2007" y="223" width="786" height="600" key="find.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1657433813889" />
+    <state x="2143" y="0" key="new project wizard" timestamp="1657526677931">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2143" y="0" key="new project wizard/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1657526677931" />
+    <state x="178" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1656888580358" />
+    <state x="2622" y="147" key="refactoring.ChangeSignatureDialog" timestamp="1657515280276">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2622" y="147" key="refactoring.ChangeSignatureDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1657515280276" />
+    <state x="809" y="190" key="run.anything.popup" timestamp="1656909046685">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="809" y="190" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1656909046685" />
+    <state x="2063" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1657629271808">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2063" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1657629271808" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jeb-server/src/main/java/com/sudongzhao/server/execption/GlobalException.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

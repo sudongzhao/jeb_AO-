@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.sudongzhao.mapper.SysLogMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.sudongzhao.pojo.SysLog">
+        <result column="title" property="title" />
+        <result column="user_name" property="userName" />
+        <result column="class_name" property="className" />
+        <result column="method" property="method" />
+        <result column="param" property="param" />
+        <result column="visit_time" property="visitTime" />
+        <result column="execution_time" property="executionTime" />
+        <result column="ip" property="ip" />
+        <result column="url" property="url" />
+        <result column="os_and_browser" property="osAndBrowser" />
+        <result column="session_id" property="sessionId" />
+        <result column="req_method" property="reqMethod" />
+        <result column="is_ajax" property="isAjax" />
+        <result column="user_id" property="userId" />
+        <result column="result" property="result" />
+        <result column="exception" property="exception" />
+    </resultMap>
+
+    <!-- 通用查询结果列 -->
+    <sql id="Base_Column_List">
+        title, user_name, class_name, method, param, visit_time, execution_time, ip, url, os_and_browser, session_id, req_method, is_ajax, user_id, result, exception
+    </sql>
+
+</mapper>
